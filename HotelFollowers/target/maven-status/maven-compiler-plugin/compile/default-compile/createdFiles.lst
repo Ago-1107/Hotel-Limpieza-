@@ -1,0 +1,10 @@
+guest\Client.class
+housekeeping\Record.class
+common\People.class
+common\Main.class
+common\Lectura.class
+housekeeping\Housekeeping.class
+housekeeping\Room.class
+guest\Player.class
+guest\CheckIn.class
+guest\ClientA.class
